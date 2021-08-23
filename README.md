@@ -17,7 +17,7 @@ TypeScript declarations for the lua API (see [TypescriptToLua](https://github.co
 * **dota-enums.d.ts** Declarations of Lua enums.
 * **dota-gameevents.d.ts** Declarations of the different game events and their event contents.
 * **dota-modifier-properties.d.ts** Declarations for modifier properties on Lua modifiers.
-* **dota-std.d.ts** Lua std functions used for Dota modding.
+* **dota-std.d.ts** Lua std functions used for Dota modding. 
 
 ### /examples/vscript/
 Example TypeScript code.
